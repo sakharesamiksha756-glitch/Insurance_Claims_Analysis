@@ -92,6 +92,20 @@ The project includes a Power BI dashboard with two report pages.
 - Fraud Rate by Fault
 - Fraud Rate by Driver Rating
 
+### Dashboard Preview
+
+
+#### Page 1 — Fraud Analysis Overview
+
+![Power BI Dashboard - Page 1](images/dashboard_page1.png)
+
+
+#### Page 2 — Fraud Risk Analysis
+
+![Power BI Dashboard - Page 2](images/dashboard_page2.png)
+
+
+
 ## Project Structure
 
 ```text
